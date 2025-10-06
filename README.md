@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/jahidulkanchan/jahidulkanchan/refs/heads/main/git-cover.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/jahidulkanchan/jahidulkanchan/refs/heads/main/cover.png"  />
 </div>
 
 ###
